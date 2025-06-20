@@ -1,6 +1,7 @@
 # Loan-Default-Analysis
 Power BI +SQL Server + Data Flow + Incremental Refresh
 
+Dashboard:- https://app.fabric.microsoft.com/links/KkNsIHyQ4K?ctid=18fba71d-17f8-49c6-89b8-2613315bb69d&pbi_source=linkShare
 
 📌 **🔗 Data Integration with Dataflow (Power BI Service)**
 One of the key highlights of this project was using **Power BI Dataflows** to manage and automate the data extraction and transformation layer:
